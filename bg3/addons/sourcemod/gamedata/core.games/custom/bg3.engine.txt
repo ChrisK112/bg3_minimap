@@ -1,0 +1,10 @@
+"Games"
+{
+	"bg3"
+	{
+		"Keys"
+		{
+			"HudTextMsg"			"HudMsg"
+		}
+	}
+}

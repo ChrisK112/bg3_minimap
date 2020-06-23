@@ -1,0 +1,5 @@
+"UnlitGeneric" 
+{
+	"$baseTexture" "custom/minimap/tg_minimap"
+	"$translucent" "1"
+}
