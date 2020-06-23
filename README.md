@@ -1,5 +1,7 @@
 # bg3_minimap
-A SourceMod for battle grounds III that adds a working minimap
+A SourceMod for battle grounds III that adds a working minimap.
+Currently shows yourself, and 5 teammates - a engine limitation of 6 "dots" prevents showing more.
+Future releases set to allow different modes. e.g. show self only, plus the location of an enemy shot.
 
 
 Installation instructions:
